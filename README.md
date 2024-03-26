@@ -1,2 +1,2 @@
 # SQL DATA ANALYSIS AND VISUALIZATION WITH POWER BI FOR FDA
-In this project, I'm using SQL and Power BI to uncover insights. My goal is clear: craft informative reports and visualizations to drive better decision-making.
+In this project, I'm utilizing SQL data analysis and visualization tools like MySQL and Power BI to uncover insights crucial for decision-making. My objective is to craft informative reports and visualizations, revealing trends and patterns within the dataset. Through meticulous analysis, I aim to contribute to better decision-making processes.
